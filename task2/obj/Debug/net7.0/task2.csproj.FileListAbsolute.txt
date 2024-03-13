@@ -1,12 +1,12 @@
-C:\Users\MaestroGM\Desktop\Geek Breins\Уроки\Lesson1\task2\obj\Debug\net7.0\task2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\MaestroGM\Desktop\Geek Breins\Уроки\Lesson1\task2\obj\Debug\net7.0\task2.AssemblyInfoInputs.cache
-C:\Users\MaestroGM\Desktop\Geek Breins\Уроки\Lesson1\task2\obj\Debug\net7.0\task2.AssemblyInfo.cs
-C:\Users\MaestroGM\Desktop\Geek Breins\Уроки\Lesson1\task2\obj\Debug\net7.0\task2.csproj.CoreCompileInputs.cache
 C:\Users\MaestroGM\Desktop\Geek Breins\Уроки\Lesson1\task2\bin\Debug\net7.0\task2.exe
 C:\Users\MaestroGM\Desktop\Geek Breins\Уроки\Lesson1\task2\bin\Debug\net7.0\task2.deps.json
 C:\Users\MaestroGM\Desktop\Geek Breins\Уроки\Lesson1\task2\bin\Debug\net7.0\task2.runtimeconfig.json
 C:\Users\MaestroGM\Desktop\Geek Breins\Уроки\Lesson1\task2\bin\Debug\net7.0\task2.dll
 C:\Users\MaestroGM\Desktop\Geek Breins\Уроки\Lesson1\task2\bin\Debug\net7.0\task2.pdb
+C:\Users\MaestroGM\Desktop\Geek Breins\Уроки\Lesson1\task2\obj\Debug\net7.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaestroGM\Desktop\Geek Breins\Уроки\Lesson1\task2\obj\Debug\net7.0\task2.AssemblyInfoInputs.cache
+C:\Users\MaestroGM\Desktop\Geek Breins\Уроки\Lesson1\task2\obj\Debug\net7.0\task2.AssemblyInfo.cs
+C:\Users\MaestroGM\Desktop\Geek Breins\Уроки\Lesson1\task2\obj\Debug\net7.0\task2.csproj.CoreCompileInputs.cache
 C:\Users\MaestroGM\Desktop\Geek Breins\Уроки\Lesson1\task2\obj\Debug\net7.0\task2.dll
 C:\Users\MaestroGM\Desktop\Geek Breins\Уроки\Lesson1\task2\obj\Debug\net7.0\refint\task2.dll
 C:\Users\MaestroGM\Desktop\Geek Breins\Уроки\Lesson1\task2\obj\Debug\net7.0\task2.pdb
