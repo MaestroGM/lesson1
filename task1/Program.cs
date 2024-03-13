@@ -1,4 +1,4 @@
-﻿//Console.WriteLine("Hello World");
+﻿//Console.WriteLine("Hello world");
 
 int value = 100;
 Console.WriteLine(value);
